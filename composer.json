@@ -1,6 +1,6 @@
 {
     "name": "uzdevid/yii2-apelsin",
-    "description": "Integration with the orange payment system",
+    "description": "Integration with the \"Apelsin\" payment system",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","apelsin"],
     "license": "MIT",
