@@ -1,0 +1,22 @@
+{
+    "name": "uzdevid/yii2-apelsin",
+    "description": "Integration with the \"Apelsin\" payment system",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","apelsin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibragimov Diyorbek",
+            "email": "uzdevid@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "uzdevid\\apelsin\\": ""
+        }
+    }
+}
